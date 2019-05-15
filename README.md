@@ -14,7 +14,6 @@ If you find Net2Net-NE is helpful to your research, please consider citing:
 @inproceedings{Zhicheng2019Net2Net-NE,  
   author    = {Zhicheng He and Jie Liu and Na Li and Yalou Huang},  
   title     = {Learning Network-to-Network Model for Content-rich Network Embedding},  
-  booktitle = {Proceedings of the 25th {ACM} {SIGKDD} International Conference on Knowledge Discovery {\&} Data Mining, {KDD} 2019,  
-               Anchorage, Alaska, USA, August 4 - 8, 2019},  
+  booktitle = {Proceedings of the 25th {ACM} {SIGKDD} International Conference on Knowledge Discovery {\&} Data Mining, {KDD} 2019, Anchorage, Alaska, USA, August 4 - 8, 2019},  
   year      = {2019}  
 }
